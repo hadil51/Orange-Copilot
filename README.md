@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/orange-copilot-icon.png" alt="Orange Copilot icon" width="96" />
+  <img src="docs/orange-copilot-logo.png" alt="Orange Copilot — HR Screening &amp; Purchasing Assistant" width="280" />
   &nbsp;&nbsp;&nbsp;
   <img src="docs/orange-tunisia-logo.png" alt="Orange Tunisia" width="96" />
 </p>
