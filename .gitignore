@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build
+dist/
+build/
+*.local
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs & caches
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vite/
+.cache/
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Scratch
+Nouveau document texte.txt
