@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="docs/orange-logo.png" alt="Orange" width="140" />
+  <img src="docs/orange-copilot-icon.png" alt="Orange Copilot icon" width="96" />
 </p>
 
-# HR Platform
+<p align="center">
+  <img src="docs/orange-copilot-logo.png" alt="Orange Copilot — HR Screening &amp; Purchasing Assistant" width="420" />
+</p>
+
+# Orange Copilot
 
 **AI-assisted recruitment screening** for internal HR teams.
 
@@ -310,7 +314,7 @@ Recommendations (decision type, note, email subject/body, approval, sent-at) are
 │   ├── api/n8n.js        Single n8n client
 │   ├── pages/            Dashboard, Offers, Candidates, Chat RH, Purchase
 │   └── components/       Layout, candidate detail
-├── docs/screenshots/     UI and n8n captures used in this README
+├── docs/                 App logos (icon + lockup) and screenshots
 ├── package.json
 └── README.md
 ```
