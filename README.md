@@ -1,9 +1,7 @@
 <p align="center">
   <img src="docs/orange-copilot-icon.png" alt="Orange Copilot icon" width="96" />
-</p>
-
-<p align="center">
-  <img src="docs/orange-copilot-logo.png" alt="Orange Copilot — HR Screening &amp; Purchasing Assistant" width="420" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/orange-tunisia-logo.png" alt="Orange Tunisia" width="96" />
 </p>
 
 # Orange Copilot
